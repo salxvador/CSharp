@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
