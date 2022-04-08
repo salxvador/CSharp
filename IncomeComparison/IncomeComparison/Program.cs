@@ -20,8 +20,8 @@ namespace IncomeComparison
             string p1_week_hours_str = Console.ReadLine();
             double p1_week_hours = Convert.ToDouble(p1_week_hours_str);
 
-            // Calculate Salary for Person 1:
-            double p1_salary = p1_hourly * p1_week_hours;
+            // Calculate Annual Salary for Person 1:
+            double p1_salary = (p1_hourly * p1_week_hours) * 52;
             
             // Collect data for Person 2; Convert strings to doubles:
             Console.WriteLine("Person 2: \nHourly Rate?");
@@ -32,8 +32,8 @@ namespace IncomeComparison
             string p2_week_hours_str = Console.ReadLine();
             double p2_week_hours = Convert.ToDouble(p2_week_hours_str);
 
-            // Calculate Salary for Person 2:
-            double p2_salary = p2_hourly * p2_week_hours;
+            // Calculate Annual Salary for Person 2:
+            double p2_salary = (p2_hourly * p2_week_hours) * 52;
 
             // Calculate if person 1 salary is greater than person2 salary:
             bool comp = p1_salary > p2_salary;
