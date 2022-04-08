@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.pdb
