@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
