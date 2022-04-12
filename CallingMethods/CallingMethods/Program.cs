@@ -16,12 +16,11 @@ namespace CallingMethods
 
             // use input to create new maths class, and assign it to number
             Maths numb = new Maths();
-            numb.number = num;
 
             //Call each method:
-            Console.WriteLine("addTwo method: "+numb.addTwo());
-            Console.WriteLine("multTwo method: " + numb.multTwo());
-            Console.WriteLine("divTwo method: " + numb.divTwo());
+            Console.WriteLine("addTwo method: "+numb.addTwo(num));
+            Console.WriteLine("multTwo method: " + numb.multTwo(num));
+            Console.WriteLine("divTwo method: " + numb.divTwo(num));
             //keep console open
             Console.Read();
         }
