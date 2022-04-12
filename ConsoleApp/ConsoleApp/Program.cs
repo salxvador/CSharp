@@ -67,6 +67,38 @@ class Program
             Console.WriteLine(item);
         }
 
+        //Assignment 4. New List:
+        List<string> namesList = new List<string>();
+        //Create an array with the names I want in my list
+        string[] myNames = { "Sal", "Julia", "Alex", "Jor", "Bela" };
+        // Add these names to the list
+        namesList.AddRange(myNames);
+
+        // Ask user to input search term for the list
+        Console.WriteLine("Please enter a name to search for in the list: ");
+        string search = Console.ReadLine();
+        int match = 0;
+        int k = 0;
+
+        while (match < 1 && k < namesList.Count)
+        {
+            if (search == namesList[k])
+            {
+                match++;
+                Console.WriteLine("'"+search+"' " + "is at the " + k + " index of the name list.");
+            }
+            else
+            {
+                k++;
+            }
+        }
+
+        if (match < 1)
+        {
+            Console.WriteLine("'"+ search +"' " + "is not present in the list.");
+        }
+        
+
         // Keep console window open for reading
         Console.Read();
     }
