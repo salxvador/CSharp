@@ -88,7 +88,7 @@ class Program
             if (search == namesList[k])
             {
                 match++;
-                Console.WriteLine("'"+search+"' " + "is at the " + k + " index of the name list.");
+                Console.WriteLine("'"+search+"' is at index " + k + " of the name list.");
             }
             else
             {
@@ -99,9 +99,43 @@ class Program
         // print message if not match is found in the list.
         if (match < 1)
         {
-            Console.WriteLine("'"+ search +"' " + "is not present in the list.");
+            Console.WriteLine("'"+ search +"' is not present in the list.");
         }
-        
+
+        // Assignment 5: New list with duplicate entries.
+        List<string> cities = new List<string>();
+        string[] site = { "Riverdale", "Portland", "Corona", "Portland", "Columbus", "Ostrander", "Columbus" };
+
+        // Add array values to list
+        cities.AddRange(site);
+
+        // Ask user for serach term input
+        Console.WriteLine("Please enter a city name to search for: \n(Examples: Portland, Riverdale)");
+        string citySearch = Console.ReadLine();
+
+        //variables to store number of matches and counter
+        int cityMatch = 0;
+        int t = 0;
+
+        while (t < cities.Count)
+        {
+            if (citySearch == cities[t])
+            {
+                Console.WriteLine(citySearch + " is at index "+ t);
+                cityMatch++;
+                t++;
+            }
+            else
+            {
+                t++;
+            }
+        }
+
+        // Print message if search term is not present in list.
+        if (cityMatch == 0)
+        {
+            Console.WriteLine("'" + citySearch + "' is not present in the list.");
+        }
 
         // Keep console window open for reading
         Console.Read();
