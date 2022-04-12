@@ -23,6 +23,24 @@ class Program
         {
             Console.WriteLine(names[i]);
         }
+
+        //Create infinite loop then fix it. Empty List:
+        List<int> numList = new List<int>();
+        // counter variable
+        int j = 0;
+
+        while (j < 10)
+        {
+            numList.Add(j);
+            // must increment j with each pass or loop will go on forever.
+            j++;
+        }
+
+        // Print each element of the list
+        foreach (int num in numList)
+        {
+            Console.WriteLine(num);
+        }
         // Keep console window open for reading
         Console.Read();
     }
