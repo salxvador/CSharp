@@ -77,11 +77,14 @@ class Program
         // Ask user to input search term for the list
         Console.WriteLine("Please enter a name to search for in the list: ");
         string search = Console.ReadLine();
+        // vars for match and k counter
         int match = 0;
         int k = 0;
 
+        // if there are no matches and the counter is less than list lenght, keep going.
         while (match < 1 && k < namesList.Count)
         {
+            // When search term matches a name, print the index (k) and update match var
             if (search == namesList[k])
             {
                 match++;
@@ -89,10 +92,11 @@ class Program
             }
             else
             {
+                // increment counter when no match is found.
                 k++;
             }
         }
-
+        // print message if not match is found in the list.
         if (match < 1)
         {
             Console.WriteLine("'"+ search +"' " + "is not present in the list.");
