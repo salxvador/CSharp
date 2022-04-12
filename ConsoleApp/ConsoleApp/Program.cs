@@ -37,7 +37,7 @@ class Program
             j++;
         }
         // Mark where this print statement begins in the console
-        Console.WriteLine("Start of While-Loop  Int List:");
+        Console.WriteLine("Start of While-Loop Int List:");
 
         // Print each element of the list
         foreach (int num in numList)
