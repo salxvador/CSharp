@@ -1,0 +1,6 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
