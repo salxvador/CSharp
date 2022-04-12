@@ -37,7 +37,7 @@ class Program
             j++;
         }
         // Mark where this print statement begins in the console
-        Console.WriteLine("Start of While-Loop Int List:");
+        Console.WriteLine("\nStart of While-Loop Int List:");
 
         // Print each element of the list
         foreach (int num in numList)
@@ -59,7 +59,7 @@ class Program
             counter++;
         }
         // Mark where this print statement begins in console
-        Console.WriteLine("Start of while loop <= operator with string list:");
+        Console.WriteLine("\nStart of while loop <= operator with string list:");
 
         //Print out the above list
         foreach (string item in strList)
@@ -75,7 +75,7 @@ class Program
         namesList.AddRange(myNames);
 
         // Ask user to input search term for the list
-        Console.WriteLine("Please enter a name to search for in the list: ");
+        Console.WriteLine("\nPlease enter a name to search for in the list: ");
         string search = Console.ReadLine();
         // vars for match and k counter
         int match = 0;
@@ -110,7 +110,7 @@ class Program
         cities.AddRange(site);
 
         // Ask user for serach term input
-        Console.WriteLine("Please enter a city name to search for: \n(Examples: Portland, Riverdale)");
+        Console.WriteLine("\nPlease enter a city name to search for: \n(Examples: Portland, Riverdale)");
         string citySearch = Console.ReadLine();
 
         //variables to store number of matches and counter
@@ -135,6 +135,29 @@ class Program
         if (cityMatch == 0)
         {
             Console.WriteLine("'" + citySearch + "' is not present in the list.");
+        }
+
+        //Assignment 6: List with duplicate strings
+        List<string> states = new List<string>() { "California", "Oregon", "Nevada", "California", "Oregon", "Utah" };
+        // new empty list to contain iterated items
+        List<string> iterated = new List<string>();
+
+        //Print Statement to make the start of this output
+        Console.WriteLine("\nStart of Assignment 6: loop thorugh and check if an item has appeared in a list.");
+
+        foreach (string state in states)
+        {
+            //if the state has been staved to the iterated list, we know it is a duplicate.
+            if (iterated.Contains(state))
+            {
+                Console.WriteLine(state + ":  has already appeared in the list.");
+            }
+            else
+            {
+                //if the state is not in iterated list, save it and print the state.
+                Console.WriteLine(state + ":  hasn't yet appeared in the list.");
+                iterated.Add(state);
+            }
         }
 
         // Keep console window open for reading
