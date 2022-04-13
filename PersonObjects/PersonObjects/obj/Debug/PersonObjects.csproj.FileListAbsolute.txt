@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\bin\Debug\PersonObjects.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\bin\Debug\PersonObjects.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\bin\Debug\PersonObjects.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\obj\Debug\PersonObjects.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\obj\Debug\PersonObjects.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\obj\Debug\PersonObjects.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\PersonObjects\PersonObjects\obj\Debug\PersonObjects.pdb
