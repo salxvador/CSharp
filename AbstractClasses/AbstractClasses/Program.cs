@@ -16,6 +16,11 @@ namespace AbstractClasses
             //Call the sayname method
             emp.SayName();
 
+            //Instantiate IQuittable object (inherited interfaceof employee)
+            IQuittable worker = new Employee() { FirstName = "Jillian", LastName = "Michaels" };
+            //Call Quit() Method
+            worker.Quit();
+
             //Keep console open
             Console.Read();
         }
