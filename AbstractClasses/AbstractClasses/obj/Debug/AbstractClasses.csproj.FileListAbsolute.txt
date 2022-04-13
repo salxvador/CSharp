@@ -1,0 +1,6 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
