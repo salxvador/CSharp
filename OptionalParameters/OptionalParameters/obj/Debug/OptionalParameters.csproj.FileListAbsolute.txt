@@ -1,0 +1,6 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb
