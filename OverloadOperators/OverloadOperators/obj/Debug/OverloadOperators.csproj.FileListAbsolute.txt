@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.pdb
