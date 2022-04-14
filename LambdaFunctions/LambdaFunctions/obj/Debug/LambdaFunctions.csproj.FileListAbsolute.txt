@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.pdb
