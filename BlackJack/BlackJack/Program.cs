@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Casino;
 using Casino.BlackJack;
 
@@ -8,6 +9,10 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            // will be instantiated with the chained player constructor
+            // if the data type is ever in question, you should declare it. Otherwise you can use var.
+            //EXAMPLE: var newPlayer = new Player("Sal");
+
             //Greet and collect name
             Console.WriteLine("Welcome to the Grand Hotel Casino./n Let's start by telling me your name.");
             string playerName = Console.ReadLine();
@@ -23,6 +28,11 @@ namespace BlackJack
             if (answer == "yes" || answer =="yeah" || answer== "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\KenAn\Desktop\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

@@ -8,7 +8,10 @@ namespace Casino
 {
     public class Player
     {
-        //Constructor:
+        //Constructors, Constructor chaining:
+        public Player (string name) : this(name, 100) //this constructor 'inherits' from the other one.
+        {
+        }
         public Player(string name, int beginningBalance)
         {
             Hand = new List<Card>();
@@ -22,7 +25,8 @@ namespace Casino
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-        
+        public Guid Id { get; set; }
+
         //Methods
         public bool Bet(int amount)
         {

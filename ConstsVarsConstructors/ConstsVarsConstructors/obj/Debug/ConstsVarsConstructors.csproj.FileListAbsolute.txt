@@ -1,0 +1,6 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\bin\Debug\ConstsVarsConstructors.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\bin\Debug\ConstsVarsConstructors.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\bin\Debug\ConstsVarsConstructors.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\obj\Debug\ConstsVarsConstructors.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\obj\Debug\ConstsVarsConstructors.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\ConstsVarsConstructors\ConstsVarsConstructors\obj\Debug\ConstsVarsConstructors.pdb

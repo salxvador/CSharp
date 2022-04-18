@@ -11,7 +11,6 @@ C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\BlackJack\BlackJack\bin\De
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\bin\Debug\Casinos.dll
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\bin\Debug\Casinos.pdb
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
