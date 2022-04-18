@@ -1,0 +1,7 @@
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\bin\Debug\MoreErrorHandling.exe.config
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\bin\Debug\MoreErrorHandling.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\bin\Debug\MoreErrorHandling.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\obj\Debug\MoreErrorHandling.csproj.AssemblyReference.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\obj\Debug\MoreErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\obj\Debug\MoreErrorHandling.exe
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\MoreErrorHandling\MoreErrorHandling\obj\Debug\MoreErrorHandling.pdb
