@@ -1,6 +1,6 @@
 ﻿using System;
-using Casinos;
-using Casinos.BlackJack;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack
 {
