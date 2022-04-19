@@ -3,3 +3,4 @@ C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjec
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\Casino\obj\Debug\Casino.dll
 C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\Casino\obj\Debug\Casino.pdb
+C:\Users\KenAn\Desktop\TTA_Work\Basic_CSharp_Programs\cs_github\TTA-CSharpProjects\BlackJack\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
