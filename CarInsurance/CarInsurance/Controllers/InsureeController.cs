@@ -53,13 +53,16 @@ namespace CarInsurance.Controllers
 
             if (ModelState.IsValid)
             {
-                // age calculations. all diffs are in DAYS
-                TimeSpan age = DateTime.Now - insuree.DateOfBirth;
-                // add 50 for being under 25, another 50 for being under 18:
-                if (age.Days < 9131) { insuree.QUOTE += 50; }
-                if (age.Days < 6574) { insuree.QUOTE += 50; }
-                //add 25 for being over 25
-                if (age.Days > 6574) { insuree.QUOTE += 25; }
+                // age calculations:
+                TimeSpan rawAge = DateTime.Now - insuree.DateOfBirth;
+                // divide by 365 to convert rawAge to years.
+                int age = rawAge.Days / 365;
+                
+                // add 100 for being under 18, or add 50 for being under 25:
+                if (age <= 18) { insuree.QUOTE += 100; }
+                else if (age > 18 && age <= 25) { insuree.QUOTE += 50; }
+                //add 25 for being alive
+                else { insuree.QUOTE += 25; }
 
                 // Car age evaluations
                 if (insuree.CarYear < 2000) { insuree.QUOTE += 25; }
