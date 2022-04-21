@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CarInsurance.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -25,6 +26,13 @@ namespace CarInsurance.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+
+        // ADMIN CONTROLLER
+        public ActionResult Admin()
+        {
+            InsuranceEntities db = new InsuranceEntities();
+            return View(db.Insurees.ToList());
         }
     }
 }
