@@ -6,9 +6,13 @@ My final project at The Tech Academy comprised a simulated 2-week long sprint in
 * JQUERY
 * git
 ### Back End Stories
-Example Story
+* Entity model for Theater Members
+* Photo Storage and Retrieval
+* Index page search feature
 ### Front End Stories
-Add Developer Count to Sign In Page
+* Add Developer Count to Sign In Page (JS)
+* Page stylings -common color schemes
 ### Other Skills Learned
 * Agile/Scrum Methodologies
-* Visual Studio
+* Visual Studio 2019
+* FontAwesome Icons
