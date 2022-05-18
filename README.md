@@ -1,5 +1,8 @@
 # C# and .NET Projects
 These are some small projects I made using C# and .NET Framework while at The Tech Academy
+
+
+_Following this course, I participated in a 2-week live project for a theater company's website. You can learn about that [here](https://github.com/salxvador/TTA-CSharpProjects/blob/main/CodeSummary.md)_
 ## Projects:
 
 ### [BlackJack Game:](https://github.com/salxvador/TTA-CSharpProjects/tree/main/BlackJack)
